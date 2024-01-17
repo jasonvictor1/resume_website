@@ -1,1 +1,1 @@
-# resume_website
+# This is a resume website created using HTML and CSS.
